@@ -1,0 +1,3 @@
+Its used to control your alt Accounts item usage when boosting, so you dont have to tab inside your rdp to use some materials. To set it up, make sure you have RDP setup (https://docs.google.com/document/d/1F__gdRy8UmTjdg7itpSTPjKu4TTvQ2JHK_kDTlSEy0Y/edit)
+Then you put the "Alt.ahk" file inside the rdp, open it with ahk v2, put in the desired slots you want to use. Put in "1" in the slots you want to be used when sending a signal and "0" on the slots you dont want to be used. After you did that you can go outside
+your rdp again and open on your main desktop "Main.ahk", from there just press F5 whenever u want the hotbar slots to be used.
